@@ -65,11 +65,11 @@ An interactive web application built using **Streamlit** that allows users to:
 
 Iris-Flower-Classification/
 │
-├── model.py              # Machine learning model
-├── app.py                # Streamlit web application
-├── requirements.txt      # Required libraries
-├── screenshot.png        # App screenshot (optional)
-├── demo.mp4              # Project demo video (optional)
+├── model.py              
+├── app.py                
+├── requirements.txt      
+├── screenshot.png        
+├── demo.mp4             
 
 ---
 
